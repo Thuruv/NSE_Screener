@@ -1,0 +1,7 @@
+pandas
+flask
+schedule
+flask_restful
+openpyxl
+nsepy
+ta-lib
